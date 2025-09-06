@@ -31,8 +31,8 @@ class MainActivity : BaseActivity() {
         setContentView(binding.root)
 
         val appBarConfiguration = AppBarConfiguration.Builder(
-            R.id.navigation_home,
             R.id.navigation_runner,
+            R.id.navigation_home,
             R.id.navigation_settings
         ).build()
 
