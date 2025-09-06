@@ -12,16 +12,6 @@
         android:title="@string/title_runner" />
 
     <item
-        android:id="@+id/navigation_terminal"
-        android:icon="@drawable/ic_terminal_24"
-        android:title="@string/title_terminal" />
-
-    <item
-        android:id="@+id/navigation_proc"
-        android:icon="@drawable/ic_layers"
-        android:title="@string/title_proc" />
-
-    <item
         android:id="@+id/navigation_settings"
         android:icon="@drawable/ic_settings"
         android:title="@string/title_settings" />

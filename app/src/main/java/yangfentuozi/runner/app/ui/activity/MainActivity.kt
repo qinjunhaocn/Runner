@@ -33,8 +33,6 @@ class MainActivity : BaseActivity() {
         val appBarConfiguration = AppBarConfiguration.Builder(
             R.id.navigation_home,
             R.id.navigation_runner,
-            R.id.navigation_terminal,
-            R.id.navigation_proc,
             R.id.navigation_settings
         ).build()
 
