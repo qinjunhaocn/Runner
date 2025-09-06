@@ -1,7 +1,6 @@
 name: App
 
 on:
-  push:
   workflow_dispatch:
 
 jobs:
