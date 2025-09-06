@@ -12,20 +12,6 @@
 
         <rikka.material.preference.MaterialSwitchPreference
             android:defaultValue="false"
-            android:icon="@drawable/ic_stop_circle_outline_24"
-            android:key="force_kill"
-            android:summary="@string/force_kill_summary"
-            android:title="@string/force_kill" />
-
-        <rikka.material.preference.MaterialSwitchPreference
-            android:defaultValue="false"
-            android:icon="@drawable/ic_layers_outline_24"
-            android:key="kill_child_processes"
-            android:summary="@string/kill_child_processes_summary"
-            android:title="@string/kill_child_processes" />
-
-        <rikka.material.preference.MaterialSwitchPreference
-            android:defaultValue="false"
             android:icon="@drawable/ic_play_arrow"
             android:key="auto_start_exec"
             android:summary="@string/auto_start_exec_summary"
